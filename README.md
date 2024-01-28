@@ -52,6 +52,8 @@ This is a simple Java program for an image editor that allows various image mani
 
 11. **Exit:**
     - Exits the image editor.
+   
+> **Note:** Checkout the Output_Images folder to see the results
 
 ## File Paths
 
@@ -65,6 +67,6 @@ This is a simple Java program for an image editor that allows various image mani
 ## Author
 
 - Rudra Kumar Chauhan
-- rudrachauhan2888@gmail.com
+- Contact me - rudrachauhan2888@gmail.com
 
 Feel free to enhance and modify the code to suit your requirements.
