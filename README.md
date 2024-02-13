@@ -49,6 +49,8 @@ This is a simple Java program for an image editor that allows various image mani
 6. **Gaussian Blur:**
    - Applies a Gaussian blur effect to the image based on user-defined strength.
      
+     <img src="https://github.com/Rudrakc/Image_Editor/blob/main/Output_Images/gaussianBlur.jpeg" alt="gaussianBlur" width="600"/>
+     
 
 7. **Transpose Image:**
    - Transposes the input image.
